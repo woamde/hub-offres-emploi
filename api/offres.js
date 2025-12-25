@@ -1,7 +1,7 @@
 export default async function handler(req, res) {
   // Configuration de l'API Adzuna
-  const APP_ID = 'VOTRE_APP_ID'; // Remplacez par votre ID Adzuna
-  const APP_KEY = 'VOTRE_APP_KEY'; // Remplacez par votre Clé Adzuna
+  const APP_ID = '0da7e5ef'; // Remplacez par votre ID Adzuna
+  const APP_KEY = '8ab512d32c44f10b90d9410591323d96'; // Remplacez par votre Clé Adzuna
   const COUNTRY = 'fr';
   
   // Paramètres de recherche : 50 offres
